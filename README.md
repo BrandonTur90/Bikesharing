@@ -13,24 +13,24 @@ a few specific questions:
 
 ## Results
 
-![slide1](/images/slide 1.PNG)
+![Slide 1](https://github.com/HexHaunter/Bikesharing/blob/main/images/Slide%201.PNG?raw=true)
 In August of 2019 there were a total of 2,344,224 trips made by users. 
 A large majority of users were Subscribers as opposed to customers.
 Peak usage was in the late afternoon to early evening.
 
-![slide2](/images/slide 2.PNG)
+![slide2](https://github.com/HexHaunter/Bikesharing/blob/main/images/Slide%202.PNG?raw=true)
 Users are fairly consistent throughout the work week, with Thursday evening being
 the most popular time. Wednesday is the least popular day for users, perhaps wanting
 to use that as a day to take a break from biking.
 
-![slide3](/images/slide 3.PNG)
+![slide3](https://github.com/HexHaunter/Bikesharing/blob/main/images/Slide%203.PNG?raw=true)
 Most users only take short trips, 5 minutes being the most common trip duration.
 
-![slide4](/images/slide 4.PNG)
+![slide4](https://github.com/HexHaunter/Bikesharing/blob/main/images/Slide%204.PNG?raw=true)
 Men checkout bikes more often than other genders, but their trip duration is very much
 in line with the average.
 
-![slide5](/images/slide 5.PNG)
+![slide5](https://github.com/HexHaunter/Bikesharing/blob/main/images/Slide%205.PNG?raw=true)
 Men also make up the majority of subscribers.
 
 
@@ -49,10 +49,10 @@ user type. In these two visualizations you can see that the customer dominant ar
 Central Park and the water, whereas subscribers dominate the rest of the map, strengthening the 
 conclusion that many subscribers use Citi Bike as a means to get to work.
 
-![starting](/images/Starting by User.PNG)
+![starting](https://github.com/HexHaunter/Bikesharing/blob/main/images/Starting%20by%20User.PNG?raw=true)
 
 
-![ending](/images/Ending by User.PNG)
+![ending](https://github.com/HexHaunter/Bikesharing/blob/main/images/Ending%20by%20User.PNG?raw=true)
 
 ## Link to Tableau Story
 
